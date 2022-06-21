@@ -16,4 +16,4 @@ rb (){
 while read -r line
 do
   echo $line
-done < input.file
+done < run.alc
