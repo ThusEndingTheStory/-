@@ -15,5 +15,5 @@ rb (){
 
 while read -r line
 do
-  # AAAAAAUUUUUGGGGGGGHHHHHHHHHH
+  echo $line
 done < input.file
